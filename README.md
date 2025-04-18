@@ -1,3 +1,4 @@
+[![Followers](https://img.shields.io/github/followers/MeghnaGN128?label=Follow&style=social)](https://github.com/MeghnaGN128)
 
 <p align="center">
   <img src="https://github.com/MeghnaGN128/MeghnaGN128/blob/main/img.jpg?raw=true" alt="Meghna Banner" width="1000" height="200"/>
