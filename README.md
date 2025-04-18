@@ -1,4 +1,9 @@
 ![Project img](https://github.com/MeghnaGN128/MeghnaGN128/blob/main/img.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/MeghnaGN128/MeghnaGN128/blob/main/img.jpg?raw=true" alt="Meghna Banner" width="500" height="150"/>
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Meghna G N</h1>
 <h3 align="center">A passionate Software Development from India</h3>
