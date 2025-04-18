@@ -1,6 +1,6 @@
-![Project img](https://github.com/MeghnaGN128/MeghnaGN128/blob/main/img.jpg?raw=true)
+
 <p align="center">
-  <img src="https://github.com/MeghnaGN128/MeghnaGN128/blob/main/img.jpg?raw=true" alt="Meghna Banner" width="500" height="150"/>
+  <img src="https://github.com/MeghnaGN128/MeghnaGN128/blob/main/img.jpg?raw=true" alt="Meghna Banner" width="1000" height="200"/>
 </p>
 
 
