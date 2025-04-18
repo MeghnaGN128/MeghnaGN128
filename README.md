@@ -1,4 +1,3 @@
-![logo](https://github.com/MeghnaGN128/MeghnaGN128/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Meghna G N</h1>
 <h3 align="center">A passionate Software Development from India</h3>
 
