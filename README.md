@@ -1,4 +1,4 @@
-![logo](https://github.com/MeghnaGN128/MeghnaGN128/blob/main/Github%20Banner.png)
+![logo](https://github.com/MeghnaGN128/MeghnaGN128/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Meghna G N</h1>
 <h3 align="center">A passionate Software Development from India</h3>
 
@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeghnaGN128&show_icons=true&locale=en" alt="Meghna G N" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeghnaGN128&" alt="MeghnaGN128" /></p>
+
